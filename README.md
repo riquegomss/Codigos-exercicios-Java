@@ -1,2 +1,5 @@
 # Codigos-exercicios-Java
-Exercícios da disciplina de Linguagem e Técnica de Programação
+
+• Exercícios feitos na disciplina de LTP (Linguagem e Técnica de Programação), 
+na Faculdade de Ciências da Computação da Universidade FUMEC-MG.
+☕
